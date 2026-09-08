@@ -112,6 +112,21 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h2 id="general">General Information</h2>
+
+<div class="alert alert-info" role="region" aria-labelledby="registration-info">
+  <p id="registration-info" style="margin-top:0;">
+    <strong>Registration:</strong> Please register through Zoom to attend the workshop.
+  </p>
+  <p>
+  Individual workshop descriptions can be found in the schedule below and on the registration page.
+</p>
+  <p style="margin-bottom:0;">
+    <a class="btn btn-primary btn-lg" href="https://booking.lib.buffalo.edu/calendar/workshops?cid=5154&t=d&d=0000-00-00&cal=5154&ct=41042&inc=0">
+      Register for the workshop
+    </a>
+  </p>
+</div>
 
 {% comment %}
 INTRODUCTION
